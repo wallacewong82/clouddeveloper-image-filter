@@ -168,7 +168,7 @@
 		{
 			"id": "dbb45274-f82e-4321-8c7a-07af4f7a95b5",
 			"key": "eb_server",
-			"value": "http://udacity-c2-image-filter-dev.ap-southeast-1.elasticbeanstalk.com",
+			"value": "http://image-filter-starter-code-dev.ap-southeast-1.elasticbeanstalk.com",
 			"type": "string"
 		}
 	]
